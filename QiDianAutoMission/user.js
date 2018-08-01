@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         起点任务
-// @namespace    https://github.com/sunrishe/Tampermonkey/
+// @namespace    https://github.com/sunrishe/Tampermonkey/QiDianAutoMission
 // @namespace    https://greasyfork.org/zh-CN/users/200077-sunrishe
 // @version      1.0
 // @description  起点中文网自动挂机、领取在线经验、完成每日任务的油猴脚本
