@@ -1,5 +1,9 @@
 # 起点任务
 
+### 安装地址
+
+[Greasy Fork](https://greasyfork.org/zh-CN/scripts/370807-%E8%B5%B7%E7%82%B9%E4%BB%BB%E5%8A%A1)
+
 ### 功能列表
 
 * 自动领取在线经验值
